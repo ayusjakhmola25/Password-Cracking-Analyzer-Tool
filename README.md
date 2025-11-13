@@ -58,8 +58,7 @@ Make sure you have **Python 3.x** installed on your system.
 ### 1\. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/password-security-lab.git](https://github.com/your-username/password-security-lab.git)
-cd password-security-lab
+git clone [https://github.com/ayusjakhmola25/Password-Cracking-Analyzer-Tool.git]
 ```
 > _(Remember to replace `your-username` with your actual GitHub username!)_
 
