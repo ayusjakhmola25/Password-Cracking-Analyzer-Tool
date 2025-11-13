@@ -60,7 +60,7 @@ Make sure you have **Python 3.x** installed on your system.
 ```bash
 git clone [https://github.com/ayusjakhmola25/Password-Cracking-Analyzer-Tool.git]
 ```
-> _(Remember to replace `your-username` with your actual GitHub username!)_
+> _(Remember to replace `ayusjakhmola25` with your actual GitHub username!)_
 
 ### 2\. Set Up Your Environment
 
