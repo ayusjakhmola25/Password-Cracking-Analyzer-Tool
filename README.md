@@ -7,7 +7,7 @@
 
 > **💡 Unlock the secrets of password security!** This web utility, built with **Python & Flask**, offers an interactive deep-dive into password cracking simulations and robust strength analysis. Discover how strong your passwords truly are and the science behind their security.
 
----
+|-------------------------------------------------------------------------|
 
 ## ✨ Features That Empower You 
 

@@ -51,7 +51,7 @@ function updateStrength() {
     const strengthText = document.getElementById('strength-text');
 
     if (password.length === 0) {
-        // Hide progress bar and text when no password is entered
+        // Hide progress bar and text when no password is entered--
         progressFill.style.width = '0%';
         strengthText.textContent = '';
         return;

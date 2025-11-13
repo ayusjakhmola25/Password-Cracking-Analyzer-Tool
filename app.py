@@ -179,7 +179,7 @@ def analyze_password_strength(password, crack_speed=10**9):
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    # --- MODIFICATION: Load passwords here to ensure the list is always up-to-date ---
+    # --- MODIFICATION: Load passwords here to ensure the list is always up-to-date --
     PASSWORD_LIST = load_password_list()
     
     context = {
