@@ -27,8 +27,7 @@ def load_password_list():
         print(f"Warning: {ANALYZER_STORAGE_FILE} not found. Cracking simulation will use an empty list.")
         return []
 
-# The PASSWORD_LIST is now dynamically loaded on every request (or you can load it once if performance is critical)
-# For simplicity and to include newly saved passwords, we will call it inside the route or make it a global call.
+
 
 # History for Search Simulation (Newest to the left/top)
 search_history = deque(maxlen=5)
